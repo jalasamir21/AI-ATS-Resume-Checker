@@ -80,13 +80,8 @@ AI-ATS-Resume-Checker/
 ├── app.py
 ├── rag_pipeline.py
 ├── requirements.txt
-├── README.md
-├── faiss_index/
-├── assets/
-│
-└── sample_data/
-    ├── Resume.pdf
-    └── Job_Description.pdf
+└── README.md
+
 ```
 
 ---
