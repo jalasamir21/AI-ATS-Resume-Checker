@@ -168,4 +168,4 @@ streamlit run app.py
 
 ## Author
 
-**Jala Samir**
+**Jala Morad**
